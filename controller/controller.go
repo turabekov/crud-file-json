@@ -1,14 +1,19 @@
 package controller
 
-import "app/storage"
+import (
+	"app/config"
+	"app/storage"
+)
 
 type Controller struct {
+	cfg   *config.Config
 	store *storage.Store
 }
 
 // Controller Constructor
-func NewController(store *storage.Store) *Controller {
+func NewController(cfg *config.Config, store *storage.Store) *Controller {
 	return &Controller{
+		cfg:   cfg,
 		store: store,
 	}
 }

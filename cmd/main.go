@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"log"
 
+	"app/config"
 	"app/controller"
 	"app/models"
 	"app/storage"
@@ -11,12 +12,14 @@ import (
 
 func main() {
 
-	store, err := storage.NewFileJSON()
+	cfg := config.Load()
+
+	store, err := storage.NewFileJSON(&cfg)
 	if err != nil {
 		panic("error while connect to json file: " + err.Error())
 	}
 
-	c := controller.NewController(store)
+	c := controller.NewController(&cfg, store)
 
 	// Get list of user
 	res, err := c.GetUsersListController("be")

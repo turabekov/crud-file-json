@@ -1,20 +1,23 @@
 package storage
 
-import "os"
+import (
+	"app/config"
+	"os"
+)
 
 type Store struct {
 	User *userRepo
 }
 
-func NewFileJSON() (*Store, error) {
+func NewFileJSON(cfg *config.Config) (*Store, error) {
 
-	userFile, err := os.Open("./data/users.json")
+	userFile, err := os.Open(cfg.Path + cfg.UserFileName)
 	if err != nil {
 		return nil, err
 	}
 
 	return &Store{
-		User: NewUserRepo("./data/users.json", userFile),
+		User: NewUserRepo(cfg.Path+cfg.UserFileName, userFile),
 	}, nil
 
 }
