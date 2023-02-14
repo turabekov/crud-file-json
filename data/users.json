@@ -1,0 +1,647 @@
+[
+   {
+      "id": "c57aa672-902f-44c8-af9d-dfa02f62541a",
+      "first_name": "Marcus",
+      "last_name": "Rashford",
+      "gender": "Male",
+      "address": {
+         "street": "763 Abbey Forest",
+         "city": "Ropcha"
+      },
+      "friends": [
+         {
+            "id": "299f36fd-168f-424e-911e-e0ca9e6dcc28",
+            "email": "Bert31@yahoo.com",
+            "phone_number": "322-254-7555"
+         }
+      ],
+      "card_number": "2149829214565335",
+      "birthday": "2003-08-25",
+      "profession": "Corporate Research Architect"
+   },
+   {
+      "id": "32a803b5-3f1c-495e-8ce7-4649e4cbe3b1",
+      "first_name": "Khumoyun",
+      "last_name": "Shaxzod",
+      "gender": "Male",
+      "address": {
+         "street": "A.Ibragimov 1-1",
+         "city": "Tashkent"
+      },
+      "friends": [
+         {
+            "id": "7ba900aa-75e8-4f17-9089-845446ff1515",
+            "email": "Darrell97@hotmail.com",
+            "phone_number": "578-164-9681"
+         },
+         {
+            "id": "7ba900aa-7qe8-4f17-9089-845446ff1515",
+            "email": "khumoyun@gmail.com",
+            "phone_number": "777-332-3333"
+         }
+      ],
+      "card_number": "342465392896553",
+      "birthday": "2002-06-12",
+      "profession": "Backend developer"
+   },
+   {
+      "id": "c46d8fe5-6eb4-4e5c-a09f-d523bc84d188",
+      "first_name": "Marvin",
+      "last_name": "Conroy",
+      "gender": "Male",
+      "address": {
+         "street": "9361 Bradtke Meadow",
+         "city": "Mapusagafou"
+      },
+      "friends": [
+         {
+            "id": "af53f59d-1ab4-4685-87cd-cd9aea78e11e",
+            "email": "Marvin91@yahoo.com",
+            "phone_number": "251-495-2471"
+         },
+         {
+            "id": "037daa06-91dd-4f75-97d7-675075e65135",
+            "email": "Marvin.Conroy@gmail.com",
+            "phone_number": "557-415-0748"
+         }
+      ],
+      "card_number": "2014015597782505",
+      "birthday": "1995-08-21",
+      "profession": "National Metrics Planner"
+   },
+   {
+      "id": "954aed84-b412-4b3d-ad93-5a2c9a0278c6",
+      "first_name": "Clinton",
+      "last_name": "Padberg",
+      "gender": "Male",
+      "address": {
+         "street": "13626 Norbert Ranch",
+         "city": "Umm Şalāl ‘Alī"
+      },
+      "friends": [
+         {
+            "id": "6953e846-5188-4131-afd8-2fc42faa4ec2",
+            "email": "Clinton.Padberg@gmail.com",
+            "phone_number": "305-209-7730"
+         },
+         {
+            "id": "799a6f6c-7aea-427b-91a4-86e62acbb6cb",
+            "email": "Clinton_Padberg89@gmail.com",
+            "phone_number": "054-766-7553"
+         },
+         {
+            "id": "1e5cf68f-c6bb-4f88-96a2-a3712e99af37",
+            "email": "Clinton_Padberg67@yahoo.com",
+            "phone_number": "779-103-7022"
+         },
+         {
+            "id": "02be76ae-aba6-4907-adcd-22db7fce9ddb",
+            "email": "Clinton_Padberg@gmail.com",
+            "phone_number": "722-129-5251"
+         }
+      ],
+      "card_number": "2014370921966799",
+      "birthday": "1994-12-12",
+      "profession": "Investor Marketing Associate"
+   },
+   {
+      "id": "ea7276d9-0931-4d8d-b8a9-e6d6c51e7584",
+      "first_name": "Bonnie",
+      "last_name": "Renner",
+      "gender": "Female",
+      "address": {
+         "street": "66802 Hobart Villages",
+         "city": "Port-aux-Français"
+      },
+      "friends": [
+         {
+            "id": "0d899861-f03f-4fc5-b449-b23e664fe1a8",
+            "email": "Bonnie40@yahoo.com",
+            "phone_number": "928-337-2164"
+         },
+         {
+            "id": "53d4127e-7dc4-4fe1-96e8-6baaf91a7b45",
+            "email": "Bonnie_Renner@yahoo.com",
+            "phone_number": "891-622-6487"
+         }
+      ],
+      "card_number": "345654143641551",
+      "birthday": "1997-10-14",
+      "profession": "District Operations Analyst"
+   },
+   {
+      "id": "b3be741e-615a-4cd5-a8db-c770fd8cdf06",
+      "first_name": "Jody",
+      "last_name": "Muller",
+      "gender": "Male",
+      "address": {
+         "street": "2725 Susie Wells",
+         "city": "Dorp Rincón"
+      },
+      "friends": [
+         {
+            "id": "8c3eadf5-9650-4d20-9d11-e8fe109123d7",
+            "email": "Jody_Muller@gmail.com",
+            "phone_number": "902-156-8830"
+         },
+         {
+            "id": "03172c8c-31e7-40da-9a3b-8e5b3fad6cb9",
+            "email": "Jody_Muller@yahoo.com",
+            "phone_number": "219-461-0690"
+         },
+         {
+            "id": "8a82cbfc-a8ab-4b32-8d9f-dfe029e0da2f",
+            "email": "Jody85@gmail.com",
+            "phone_number": "622-887-6265"
+         }
+      ],
+      "card_number": "349544156874379",
+      "birthday": "1991-01-03",
+      "profession": "National Applications Engineer"
+   },
+   {
+      "id": "bdb90df4-ce6a-4704-b249-b365f2c092e5",
+      "first_name": "Tina",
+      "last_name": "Heller",
+      "gender": "Female",
+      "address": {
+         "street": "9952 Barrows Mews",
+         "city": "Gruemirë"
+      },
+      "friends": [
+         {
+            "id": "02a5cbc9-1f3e-4018-a26f-81713c1c1c1e",
+            "email": "Tina72@gmail.com",
+            "phone_number": "631-238-6184"
+         },
+         {
+            "id": "a54699ec-ab18-4f9a-92e8-ec2a1b610f01",
+            "email": "Tina_Heller@gmail.com",
+            "phone_number": "154-635-8167"
+         }
+      ],
+      "card_number": "5344562166610892",
+      "birthday": "1995-07-14",
+      "profession": "Global Division Executive"
+   },
+   {
+      "id": "722e0f0f-6147-4f12-91d1-ae5c4cfb7e8b",
+      "first_name": "Nadine",
+      "last_name": "Leuschke",
+      "gender": "Female",
+      "address": {
+         "street": "08309 Chelsey Lodge",
+         "city": "Yung Shue Wan"
+      },
+      "friends": [
+         {
+            "id": "c0e4f4da-22fd-4d7c-be4a-4fdd23eced4f",
+            "email": "Nadine.Leuschke@yahoo.com",
+            "phone_number": "095-077-6515"
+         },
+         {
+            "id": "1e2e45b3-57e2-498c-991d-23a95ca48168",
+            "email": "Nadine58@hotmail.com",
+            "phone_number": "806-965-4702"
+         }
+      ],
+      "card_number": "3602896833653022",
+      "birthday": "1972-06-23",
+      "profession": "Central Implementation Planner"
+   },
+   {
+      "id": "bd702bb2-fe75-43a8-88f4-a75eb1cc24eb",
+      "first_name": "Thomas",
+      "last_name": "Brekke",
+      "gender": "Male",
+      "address": {
+         "street": "3483 Jenkins Islands",
+         "city": "Bodajk"
+      },
+      "friends": [
+         {
+            "id": "7dce7c90-b3b6-45d0-8141-fd52e99692e1",
+            "email": "Thomas96@gmail.com",
+            "phone_number": "487-368-7751"
+         },
+         {
+            "id": "75b1c289-f034-4d3a-b67e-869ec3a43da2",
+            "email": "Thomas_Brekke90@gmail.com",
+            "phone_number": "064-771-7768"
+         }
+      ],
+      "card_number": "346685381414433",
+      "birthday": "2001-06-21",
+      "profession": "Principal Quality Consultant"
+   },
+   {
+      "id": "f9857855-17c7-4654-934e-9846cfd8083c",
+      "first_name": "Jacob",
+      "last_name": "Feeney",
+      "gender": "Male",
+      "address": {
+         "street": "108 Runolfsdottir Lane",
+         "city": "Rebola"
+      },
+      "friends": [
+         {
+            "id": "d8775c24-949f-4e91-959f-4dbb9658ca3f",
+            "email": "Jacob24@gmail.com",
+            "phone_number": "658-401-0492"
+         }
+      ],
+      "card_number": "3868885403238578",
+      "birthday": "1990-07-25",
+      "profession": "Dynamic Communications Producer"
+   },
+   {
+      "id": "95515ae1-456b-4c93-a229-8bf3963942ab",
+      "first_name": "Roger",
+      "last_name": "Lesch",
+      "gender": "Male",
+      "address": {
+         "street": "76205 Zelma Harbors",
+         "city": "Korablino"
+      },
+      "friends": [
+         {
+            "id": "24d98d7a-4afd-4f21-93eb-7367e6d8f76e",
+            "email": "Roger5@gmail.com",
+            "phone_number": "382-282-9519"
+         },
+         {
+            "id": "b4ce4b77-a3e2-41fd-bafe-f95e7371c71d",
+            "email": "Roger_Lesch@yahoo.com",
+            "phone_number": "487-772-0508"
+         },
+         {
+            "id": "c1176618-e923-4ac7-99c0-a68cfb0a119d",
+            "email": "Roger40@yahoo.com",
+            "phone_number": "215-831-6617"
+         },
+         {
+            "id": "fcec8716-2740-41f3-aadc-ad4736957bcc",
+            "email": "Roger.Lesch@yahoo.com",
+            "phone_number": "479-378-0080"
+         }
+      ],
+      "card_number": "2149209868174652",
+      "birthday": "1992-01-15",
+      "profession": "Chief Metrics Engineer"
+   },
+   {
+      "id": "6ae583a5-8c71-4b5e-9cba-90a09dc8dc5b",
+      "first_name": "Stuart",
+      "last_name": "Leffler",
+      "gender": "Male",
+      "address": {
+         "street": "14922 Runolfsdottir Viaduct",
+         "city": "Masunga"
+      },
+      "friends": [
+         {
+            "id": "ef0ea725-c4ea-4644-8a1d-39d34e58e7e8",
+            "email": "Stuart_Leffler77@hotmail.com",
+            "phone_number": "414-847-8902"
+         },
+         {
+            "id": "94366df1-e815-44c1-bc8b-41f67a5ba17d",
+            "email": "Stuart73@gmail.com",
+            "phone_number": "018-563-3009"
+         }
+      ],
+      "card_number": "343636108152056",
+      "birthday": "1972-03-20",
+      "profession": "Dynamic Optimization Analyst"
+   },
+   {
+      "id": "e8d1e0f3-c751-487f-93b4-6849420d85a6",
+      "first_name": "Edith",
+      "last_name": "Wintheiser",
+      "gender": "Female",
+      "address": {
+         "street": "459 Domenic Fort",
+         "city": "Timişoara"
+      },
+      "friends": [
+         {
+            "id": "e920f1f7-ac76-4b76-8f0d-e655b668314c",
+            "email": "Edith62@hotmail.com",
+            "phone_number": "820-023-3520"
+         }
+      ],
+      "card_number": "4539742157406439",
+      "birthday": "1973-08-29",
+      "profession": "Corporate Implementation Engineer"
+   },
+   {
+      "id": "97005153-54a7-4d0e-9484-9269a4e7a932",
+      "first_name": "Delbert",
+      "last_name": "Purdy",
+      "gender": "Male",
+      "address": {
+         "street": "7473 Brandon Camp",
+         "city": "La Concepción"
+      },
+      "friends": [
+         {
+            "id": "cb121cbe-8503-4bb6-af20-ae978e27f9ab",
+            "email": "Delbert_Purdy@gmail.com",
+            "phone_number": "241-823-4181"
+         },
+         {
+            "id": "098bc3dc-d113-4918-800e-f8f7184f35c3",
+            "email": "Delbert_Purdy2@yahoo.com",
+            "phone_number": "535-249-0719"
+         },
+         {
+            "id": "d32fc271-5409-4e8f-8036-70e29e6121a1",
+            "email": "Delbert40@yahoo.com",
+            "phone_number": "701-419-5069"
+         }
+      ],
+      "card_number": "8699277129107986",
+      "birthday": "1992-01-18",
+      "profession": "Dynamic Quality Technician"
+   },
+   {
+      "id": "459fd252-19e2-435a-9c75-0be4955f19f5",
+      "first_name": "Merle",
+      "last_name": "Koch",
+      "gender": "Male",
+      "address": {
+         "street": "92125 Shanahan Fall",
+         "city": "Slobozia"
+      },
+      "friends": [
+         {
+            "id": "b42a0fca-96be-4e2a-9063-d4be4cec970f",
+            "email": "Merle_Koch88@hotmail.com",
+            "phone_number": "485-559-8076"
+         },
+         {
+            "id": "895cb118-782c-4cab-aa5f-b98a8a9db053",
+            "email": "",
+            "phone_number": "193-494-5163"
+         },
+         {
+            "id": "93eb9b1d-0352-4db1-a36d-5db814d2bcaf",
+            "email": "Merle.Koch64@gmail.com",
+            "phone_number": "239-471-4649"
+         },
+         {
+            "id": "9f48bc5d-4631-4ddb-acc7-8d06ae73e6b7",
+            "email": "Merle83@hotmail.com",
+            "phone_number": "188-646-9653"
+         }
+      ],
+      "card_number": "6011768783625979",
+      "birthday": "1977-09-20",
+      "profession": "Chief Metrics Coordinator"
+   },
+   {
+      "id": "4860a26a-55c1-4594-916d-e5748c56fb0c",
+      "first_name": "Shawn",
+      "last_name": "Herman",
+      "gender": "Male",
+      "address": {
+         "street": "3046 Leilani Creek",
+         "city": "El Tránsito"
+      },
+      "friends": [
+         {
+            "id": "da1f5cf9-eb20-4bf8-9a18-23b1dc120044",
+            "email": "Shawn_Herman46@hotmail.com",
+            "phone_number": "372-817-1366"
+         }
+      ],
+      "card_number": "3517680886323707",
+      "birthday": "1972-10-28",
+      "profession": "Senior Quality Executive"
+   },
+   {
+      "id": "404f056c-b122-410c-8b29-2f28af3635ad",
+      "first_name": "Estelle",
+      "last_name": "Mayer",
+      "gender": "Female",
+      "address": {
+         "street": "088 Neha Avenue",
+         "city": "Ranérou"
+      },
+      "friends": [
+         {
+            "id": "16fbbfb8-f109-40b5-bd40-48f7342ca73e",
+            "email": "Estelle66@yahoo.com",
+            "phone_number": "073-691-6071"
+         }
+      ],
+      "card_number": "373340062382121",
+      "birthday": "1984-05-03",
+      "profession": "Legacy Infrastructure Agent"
+   },
+   {
+      "id": "b4709ed3-a2fb-4449-a443-2cc2176ea223",
+      "first_name": "Richard",
+      "last_name": "Langosh",
+      "gender": "Male",
+      "address": {
+         "street": "23470 Streich Street",
+         "city": "Barra"
+      },
+      "friends": [
+         {
+            "id": "d1591431-f939-43d8-b979-060dc188a8ad",
+            "email": "Richard72@gmail.com",
+            "phone_number": "901-963-6503"
+         },
+         {
+            "id": "bf3955fa-7b3d-43ff-8e5a-c63093da041a",
+            "email": "Richard_Langosh8@gmail.com",
+            "phone_number": "988-669-7912"
+         },
+         {
+            "id": "c17ddad0-e594-4af2-afde-421e103e75f1",
+            "email": "Richard53@hotmail.com",
+            "phone_number": "199-977-3584"
+         }
+      ],
+      "card_number": "6011546167308689",
+      "birthday": "2007-01-19",
+      "profession": "Forward Group Officer"
+   },
+   {
+      "id": "d08216f5-232a-42bd-9bdb-8375919045d1",
+      "first_name": "Johanna",
+      "last_name": "Glover",
+      "gender": "Female",
+      "address": {
+         "street": "66164 Romaguera Court",
+         "city": "Espérance Trébuchet"
+      },
+      "friends": [
+         {
+            "id": "d5943605-4c26-4280-96cb-85e6f1a57d89",
+            "email": "Johanna_Glover@hotmail.com",
+            "phone_number": "957-696-4101"
+         },
+         {
+            "id": "e25e42b6-41dd-4763-ad40-63d1f631a889",
+            "email": "Johanna.Glover0@yahoo.com",
+            "phone_number": "052-350-1530"
+         },
+         {
+            "id": "9603dd47-1df7-4c0d-8c64-e264332b5465",
+            "email": "Johanna97@gmail.com",
+            "phone_number": "240-316-5356"
+         }
+      ],
+      "card_number": "3695993973053200",
+      "birthday": "2009-10-28",
+      "profession": "Direct Program Supervisor"
+   },
+   {
+      "id": "87c4d3a3-726d-42e5-bc47-3c4c1c572c47",
+      "first_name": "Margarita",
+      "last_name": "Smith",
+      "gender": "Female",
+      "address": {
+         "street": "069 Nyah Keys",
+         "city": "Cankuzo"
+      },
+      "friends": [
+         {
+            "id": "9bbd585e-34f3-4fc7-9e95-a9e9232a8126",
+            "email": "Margarita_Smith11@yahoo.com",
+            "phone_number": "051-659-7024"
+         },
+         {
+            "id": "a34777e2-2be3-4eca-aaba-03d3496b9143",
+            "email": "Margarita63@hotmail.com",
+            "phone_number": "529-981-9279"
+         }
+      ],
+      "card_number": "4532609945404017",
+      "birthday": "1998-02-06",
+      "profession": "Customer Infrastructure Manager"
+   },
+   {
+      "id": "7d3193a1-911a-434f-9c82-77927c475e8b",
+      "first_name": "Vincent",
+      "last_name": "Bins",
+      "gender": "Male",
+      "address": {
+         "street": "18855 Delpha Summit",
+         "city": "Mouila"
+      },
+      "friends": [
+         {
+            "id": "b5b32d8b-b01d-4d8c-a1bc-aca71afe5425",
+            "email": "Vincent.Bins@hotmail.com",
+            "phone_number": "586-488-3326"
+         }
+      ],
+      "card_number": "4539642519448410",
+      "birthday": "2005-07-06",
+      "profession": "Principal Branding Technician"
+   },
+   {
+      "id": "92d46bde-8395-42ab-b399-79773701bf2a",
+      "first_name": "Marian",
+      "last_name": "Trantow",
+      "gender": "Female",
+      "address": {
+         "street": "860 Liana Lane",
+         "city": "Türkmenbaşy"
+      },
+      "friends": [
+         {
+            "id": "f27e51f1-a55f-4d3f-bc46-afdf6593c9f1",
+            "email": "Marian.Trantow@hotmail.com",
+            "phone_number": "915-071-7813"
+         }
+      ],
+      "card_number": "8699470644832077",
+      "birthday": "1978-06-02",
+      "profession": "Human Markets Consultant"
+   },
+   {
+      "id": "67e52f91-d688-4130-b534-4fe254975cbc",
+      "first_name": "Yvette",
+      "last_name": "Von",
+      "gender": "Female",
+      "address": {
+         "street": "7258 Fay Flat",
+         "city": "Alice Town"
+      },
+      "friends": [
+         {
+            "id": "b1426257-9157-4afd-9674-be0644e3cb8f",
+            "email": "Yvette88@yahoo.com",
+            "phone_number": "063-153-9723"
+         },
+         {
+            "id": "0be7d74a-ae6e-4451-a990-0c5517f85840",
+            "email": "Yvette.Von22@yahoo.com",
+            "phone_number": "527-093-5024"
+         },
+         {
+            "id": "71b03d49-f08d-46be-abcb-7e0d2ec63d43",
+            "email": "Yvette.Von60@gmail.com",
+            "phone_number": "366-473-7465"
+         }
+      ],
+      "card_number": "2149200475705962",
+      "birthday": "1984-05-21",
+      "profession": "Product Optimization Producer"
+   },
+   {
+      "id": "1e4b7a8d-7e1c-4470-b1ba-1653e94e6962",
+      "first_name": "Valerie",
+      "last_name": "Huel",
+      "gender": "Female",
+      "address": {
+         "street": "1948 Edyth Prairie",
+         "city": "Stubenberg"
+      },
+      "friends": [
+         {
+            "id": "e8321166-58bb-4106-b101-9502fcabf590",
+            "email": "Valerie22@gmail.com",
+            "phone_number": "824-720-5141"
+         }
+      ],
+      "card_number": "6011657149053093",
+      "birthday": "1987-08-08",
+      "profession": "Human Directives Agent"
+   },
+   {
+      "id": "aa6a735a-cc75-4026-9607-0fe43e38585d",
+      "first_name": "Lora",
+      "last_name": "Ortiz",
+      "gender": "Female",
+      "address": {
+         "street": "1707 McKenzie Falls",
+         "city": "Greenhithe"
+      },
+      "friends": [
+         {
+            "id": "1a705760-4257-42fb-b61e-6ab2849fcaec",
+            "email": "Lora.Ortiz@gmail.com",
+            "phone_number": "448-805-6239"
+         },
+         {
+            "id": "c7627daf-347b-45be-adc2-6c1ca9ded011",
+            "email": "Lora19@gmail.com",
+            "phone_number": "910-205-3715"
+         },
+         {
+            "id": "60c175cc-8d3f-405c-b5c7-80861fcc3d86",
+            "email": "Lora_Ortiz@yahoo.com",
+            "phone_number": "093-523-9159"
+         }
+      ],
+      "card_number": "2014087600728098",
+      "birthday": "1988-05-21",
+      "profession": "Lead Paradigm Strategist"
+   }
+]
