@@ -1,28 +1,8 @@
 [
    {
-      "id": "c57aa672-902f-44c8-af9d-dfa02f62541a",
-      "first_name": "Marcus",
-      "last_name": "Rashford",
-      "gender": "Male",
-      "address": {
-         "street": "763 Abbey Forest",
-         "city": "Ropcha"
-      },
-      "friends": [
-         {
-            "id": "299f36fd-168f-424e-911e-e0ca9e6dcc28",
-            "email": "Bert31@yahoo.com",
-            "phone_number": "322-254-7555"
-         }
-      ],
-      "card_number": "2149829214565335",
-      "birthday": "2003-08-25",
-      "profession": "Corporate Research Architect"
-   },
-   {
       "id": "32a803b5-3f1c-495e-8ce7-4649e4cbe3b1",
-      "first_name": "Khumoyun",
-      "last_name": "Shaxzod",
+      "first_name": "Turabekov",
+      "last_name": "Khumoyun",
       "gender": "Male",
       "address": {
          "street": "A.Ibragimov 1-1",
@@ -46,8 +26,8 @@
    },
    {
       "id": "c46d8fe5-6eb4-4e5c-a09f-d523bc84d188",
-      "first_name": "Marvin",
-      "last_name": "Conroy",
+      "first_name": "Marcus",
+      "last_name": "Rashford",
       "gender": "Male",
       "address": {
          "street": "9361 Bradtke Meadow",
